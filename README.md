@@ -2266,47 +2266,23 @@ En esta parte del trabajo aún no se desarrolla el backend, debido a eso no se p
 
 #### 5.2.2.5 Execution Evidence for Sprint 2 Review
 
-Login
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/ec27885f-777b-473f-a9f6-3303d09df3ec)
 
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/2497cc28-9ea5-409c-812d-b932d57c461c)
 
-Registro
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/426f9b31-c823-4096-a5a2-76323cdf25e3)
 
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/b212fa21-8cf9-4a1d-99fe-d8b3e294eecb)
 
-Página de inicio arrendatario
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/a51d2984-298e-4398-a75f-6af088df4656)
 
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/2f1679aa-0039-432e-b9b7-8e951115a4d4)
 
-Página de inicio propietario
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/5160dff2-b027-4a7c-ae89-42ef9330e550)
 
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/14549b33-81a5-42a5-bf61-a2f94ea41441)
 
-Notificaciones propietario
-
-
-Perfil arrendatario
-
-
-Perfil propietario
-
-
-Solicitudes arrendatario
-
-
-Búsqueda de autos arrendatario
-
-
-Mantenimiento arrendatario
-
-
-Registro vehicular propietario
-
-
-Creación de contrato de alquiler propietario
-
-
-Alquiler arrendatario
-
-
-Alquiler propietario
-
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/8a639b14-bbee-4fa1-a6f2-db1104e98889)
 
 
 #### 5.2.2.6 Services Documentation Evidence for Sprint 2 Review

@@ -2350,6 +2350,7 @@ Para estra entrega se logró desplegar el front end de la aplicación en firebas
 
 ### Anexos
 
+
 - Enlace para acceder a la landing page: [Ver enlace](https://appweb-grupo3.github.io/informe/)
 - Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)
 

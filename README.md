@@ -2325,6 +2325,8 @@ Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente
 
 #### 5.2.2.8 Team Collaboration Insights during Sprint 2
 
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/93ececdd-43a6-4ad1-8832-9c44ee3f17c0)
+
 
 
 ### Bibliografía 

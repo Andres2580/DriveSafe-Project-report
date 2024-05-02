@@ -2350,18 +2350,3 @@ Para estra entrega se logró desplegar el front end de la aplicación en firebas
 
 ### Anexos
 
-- Enlace para acceder a la landing page: [Ver enlace](https://appweb-grupo3.github.io/informe/)
-- Video de todas las entrevistas subido a stream: [Ver enlace](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202216279_upc_edu_pe/ER9m1nf_uyFMnGpw8wpQtaYBkLLrqb1nS8vDVTedop1PgQ)
-
-- Repositorio GitHub LandingPage: [Ver enlace](https://github.com/AppWeb-Grupo3/informe)
-
-- Repositorio GitHub Informe: [Ver enlace](https://github.com/AppWeb-Grupo3/informe/blob/main/README.md)
-- Figma: [Diseño en Figma para Page Wireframe](https://www.figma.com/file/qzhTckPv7BBpVCWJajlGYm/DriveSafe-Landing?type=design&node-id=0-1&mode=design&t=p2hmIXB56hxiRG1A-0)
-
-- Figma: [Wireflow Diagrams en Figma](https://www.figma.com/file/S4yDK7v6fy06zgrY3aOb3c/DriveSafe!?type=design&node-id=0%3A1&mode=design&t=kD5nCwgcDbVammW7-1)
-
-
-
-- Figma: [Diseño en Figma landing page](https://www.figma.com/file/qzhTckPv7BBpVCWJajlGYm/DriveSafe-Landing?type=design&node-id=0-1&mode=design&t=p2hmIXB56hxiRG1A-0)
-
-- Miro: [User Flow ]( https://miro.com/app/board/uXjVKVCfnuI=/?share_link_id=650795922444)

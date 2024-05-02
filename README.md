@@ -2325,6 +2325,28 @@ Para la creación de la plataforma,en esta caso para el desarrollo del Fronted s
 
 Para estra entrega se logró desplegar el front end de la aplicación en firebase. Para lograrlo este fue el proceso:
 
+Primero creamos un proyecto en firebase y le asignamos un nombre.
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/fdbc50ae-7458-494b-81e5-9e98d5b08b42)
+
+Una vez creado el proyecto nos dirigimos al apartado de hosting.
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/f6728540-ab7a-4d8a-93c3-7b58d6e9edc8)
+
+Seguimos las instrucciones de firebase para desplegar la aplicación.
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/598efc51-7fa6-4701-993d-2c3fab689263)
+
+Ahora nos autenticamos con nuestra cuenta de google e inicializamos el proyecto
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/9414f7dc-5360-41a5-be8e-92a154bb73c7)
+
+Finalmente lo implementamos con el comando "firebase deploy"
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/d006ed50-c6da-4eed-8f48-ab640712f474)
+
+Esta es la prueba en la consola del proyecto:
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/2d1001c9-08ed-4ac6-8ebd-a8a79517310e)
+
+Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente enlace: https://drivesafe-84b64.web.app/login
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/1bfdc874-8c92-41bb-ad04-f0b44c29cf78)
+
+
 #### 5.2.2.8 Team Collaboration Insights during Sprint 2
 
 

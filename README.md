@@ -1997,9 +1997,9 @@ URL: https://appweb-grupo3.github.io/informe/
 ![image](https://github.com/AppWeb-Grupo3/informe/assets/89095594/78441442-7cef-4229-99ed-9506882a94f2)
 
 
-###5.2.2 Sprint 2
+### 5.2.2 Sprint 2
 
-####5.2.2.1 Sprint Planning 2
+#### 5.2.2.1 Sprint Planning 2
 
 Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
 
@@ -2058,7 +2058,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
 
 ![Tablero-DriveSafe](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/6f8c62f1-9ee8-4361-b508-4fad505aaffc)
 
-####5.2.2.2 Sprint Backlog 2
+#### 5.2.2.2 Sprint Backlog 2
 
 <table>
   <tr>
@@ -2191,7 +2191,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
   </tr>
 </table>
 
-####5.2.2.3 Development Evidence for Sprint Review
+#### 5.2.2.3 Development Evidence for Sprint Review
 
 <table>
   <tr>
@@ -2260,11 +2260,11 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
   
 </table>
 
-####5.2.2.4 Testing Suite Evidence for Sprint 2 Review.
+#### 5.2.2.4 Testing Suite Evidence for Sprint 2 Review.
 
 En esta parte del trabajo aún no se desarrolla el backend, debido a eso no se pueden realizar Unit Test. Además, no se han agreagado nuevas user stories a las que realizarles Acepptan's Test's.
 
-####5.2.2.5 Execution Evidence for Sprint 2 Review
+#### 5.2.2.5 Execution Evidence for Sprint 2 Review
 
 Login
 
@@ -2309,7 +2309,7 @@ Alquiler propietario
 
 
 
-####5.2.2.6 Services Documentation Evidence for Sprint 2 Review
+#### 5.2.2.6 Services Documentation Evidence for Sprint 2 Review
 
 Para la creación de la plataforma,en esta caso para el desarrollo del Fronted se utilizo lo siguiente.
 
@@ -2321,11 +2321,11 @@ Para la creación de la plataforma,en esta caso para el desarrollo del Fronted s
 
 *GitHub:* Hemos alojado nuestro repositorio del Frontend en GitHub para colaborar y realizar un seguimiento más efectivo de los cambios en el código.
 
-####5.2.2.7 Software Deployment Evidence for Sprint 2 Review
+#### 5.2.2.7 Software Deployment Evidence for Sprint 2 Review
 
 Para estra entrega se logró desplegar el front end de la aplicación en firebase. Para lograrlo este fue el proceso:
 
-####5.2.2.8 Team Collaboration Insights during Sprint 2
+#### 5.2.2.8 Team Collaboration Insights during Sprint 2
 
 
 

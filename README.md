@@ -2319,7 +2319,7 @@ Finalmente lo implementamos con el comando "firebase deploy"
 Esta es la prueba en la consola del proyecto:
 ![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/2d1001c9-08ed-4ac6-8ebd-a8a79517310e)
 
-Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente enlace: https://drivesafe-84b64.web.app/login
+Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente enlace: https://drive-safe-frontend.web.app/
 ![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/1bfdc874-8c92-41bb-ad04-f0b44c29cf78)
 
 

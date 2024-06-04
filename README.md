@@ -2329,6 +2329,164 @@ Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente
 
 
 
+### Sprint 3
+
+#### Sprint Planning 3
+
+Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>3</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2024-06-2</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">10:00 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por Discord</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Jhan Clinton Antonio Salazar<br>Leonel Alfaro Cumba<br>Nelson Elías Serrano Aquije
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Jhan Clinton Antonio Salazar<br>Leonel Alfaro Cumba<br>Nelson Elías Serrano Aquije<br>Carlos Andres Rojas Ccama<br>Luis Enrique Aquije Quiroga</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 - 2 – 1 Review Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 -2 – 1 Retrospective Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 Goal</td>
+    <td align="center">Se debe realizar correcciones para Front-End para implmentar la primera versión del Backend</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">5 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table><br>
+
+
+### Sprint Backlog 3
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI01</td>
+    <td align="center">Creación de entities</td>
+    <td align="center">Definir las estructuras de datos que representan objetos clave en el modelo de la aplicación.</td>
+    <td align="center">6</td>
+    <td align="center">Aquije Quiroga, Luis Enrique</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI02</td>
+    <td align="center">Creación de repositories</td>
+    <td align="center">Desarrollar componentes para interactuar con la base de datos y gestionar operaciones de datos.</td>
+    <td align="center">4</td>
+    <td align="center">Serrano Aquije, Nelson Elías</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI03</td>
+    <td align="center">Creación de services</td>
+    <td align="center">Diseñar y construir servicios que contienen la lógica de negocio y operaciones específicas.</td>
+    <td align="center">4</td>
+    <td align="center">Alfaro Cumba, Leonel</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI04</td>
+    <td align="center">Creación de controllers</td>
+    <td align="center">Configurar controladores para gestionar solicitudes HTTP y comunicarse con los servicios.</td>
+    <td align="center">4</td>
+    <td align="center">Serrano Aquije, Nelson Elías</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI05</td>
+    <td align="center">Creación de resources</td>
+    <td align="center">Definir recursos y rutas RESTful para exponer funcionalidades a través de una API.</td>
+    <td align="center">4</td>
+    <td align="center">Aquije Quiroga, Luis Enrique</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI06</td>
+    <td align="center">Creación de responses</td>
+    <td align="center">Crear estructuras de respuesta estandarizadas para formatear y devolver resultados coherentes.</td>
+    <td align="center">7</td>
+    <td align="center">Salazar, Jhan Clinton Antonio</td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI07</td>
+    <td align="center">Configuración de la base de datos</td>
+    <td align="center">Establecer la configuración y conexión con la base de datos, incluyendo credenciales y opciones.</td>
+    <td align="center">4</td>
+    <td align="center">Rojas Ccama, Carlos Andres</td>
+    <td align="center">In process</td>
+  </tr>
+</table>
+
+
+![image](https://github.com/Capibara767/iamgen1/assets/168503032/beab6282-a866-4750-b465-62f54579302d)
+
+https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8D/sprint
+
 ### Bibliografía 
 
 - Abril, J. M. C., Molina, J. E. B., & Acuña, L. G. V. (2020). Estrategias tributarias como herramientas de optimización de rentabilidad en el sector de alquiler de vehículos. Revista Arbitrada Interdisciplinaria Koinonía, 5(4), 211-241. Recuperado de https://dialnet.unirioja.es/servlet/articulo?codigo=7608922

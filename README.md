@@ -2490,6 +2490,10 @@ https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8
 
 El video tiene una duración de un minuto y está diseñado para ser conciso y atractivo, presentando de manera clara y efectiva las ventajas de utilizar nuestra plataforma. A través de imágenes dinámicas y una narrativa envolvente, buscamos transmitir la facilidad de uso, la conveniencia y las oportunidades económicas que ofrecemos tanto a los conductores como a los propietarios de vehículos.
 
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/2926c13d-26ae-44d5-8e7f-cf4d4e32e32c)
+
+Enlace del vídeo: https://youtu.be/Ab7koXuNdgg
+
 ### Bibliografía 
 
 - Abril, J. M. C., Molina, J. E. B., & Acuña, L. G. V. (2020). Estrategias tributarias como herramientas de optimización de rentabilidad en el sector de alquiler de vehículos. Revista Arbitrada Interdisciplinaria Koinonía, 5(4), 211-241. Recuperado de https://dialnet.unirioja.es/servlet/articulo?codigo=7608922

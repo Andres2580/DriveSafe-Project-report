@@ -2329,9 +2329,9 @@ Ahora ya podemos ver desplegada nuestra aplicacion web en línea en el siguiente
 
 
 
-### Sprint 3
+### 5.2.3 Sprint 3
 
-#### Sprint Planning 3
+#### 5.2.3.1 Sprint Planning 3
 
 Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
 
@@ -2389,7 +2389,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
 </table><br>
 
 
-### Sprint Backlog 3
+### 5.2.3.2 Sprint Backlog 3
 
 <table>
   <tr>
@@ -2482,10 +2482,13 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
   </tr>
 </table>
 
-
 ![image](https://github.com/Capibara767/iamgen1/assets/168503032/beab6282-a866-4750-b465-62f54579302d)
 
 https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8D/sprint
+
+### 5.4 Video About-the-Product
+
+El video tiene una duración de un minuto y está diseñado para ser conciso y atractivo, presentando de manera clara y efectiva las ventajas de utilizar nuestra plataforma. A través de imágenes dinámicas y una narrativa envolvente, buscamos transmitir la facilidad de uso, la conveniencia y las oportunidades económicas que ofrecemos tanto a los conductores como a los propietarios de vehículos.
 
 ### Bibliografía 
 

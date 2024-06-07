@@ -2685,10 +2685,26 @@ https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8
 
 **Arrendador**
 
-**Entrevista 1**
+
+| Entrevistado N°1 |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/0f0612e2-fdc7-4280-832d-e64b8a557773" alt="Andrés Valle" style="width: 300px;">|
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Isaak      |
+| **Sexo:**                      | Masculino                                                  |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=MT5S6ROjOPE)       |
+ **Entrevistador :**                    | Leonel Alfaro                                       |
+| **Resumen:**         | En una reciente entrevista con Isaac, un residente de treinta años de la ciudad de Lima y dedicado al área de mantenimiento, exploramos su experiencia con nuestra aplicación de alquiler de autos. Isaac elogió la accesibilidad y versatilidad de la plataforma, destacando su interfaz intuitiva y amigable para el usuario. Consideró que la información proporcionada sobre los vehículos era clara y fácil de entender, lo que facilitaba la selección del auto adecuado. Sin embargo, sugirió que la inclusión de comentarios de usuarios podría mejorar aún más la experiencia del usuario, proporcionando información adicional y opiniones de personas que ya han utilizado los servicios. En general, Isaac expresó su aprecio por la aplicación y agradeció la oportunidad de participar en la entrevista, subrayando su utilidad y la conveniencia que ofrece para aquellos que buscan alquilar un auto.                                          |
+| **Duración:**                  | 4:37                                                       |
 
 
-**Entrevista 2**
+
+| Entrevistado N°2 |<img src="https://github.com/Capibara767/iamgen1/assets/168503032/22ef7ef1-be90-4bf7-8d69-878876734971" alt="Andrés Valle" style="width: 300px;">|
+|--------------------------------|------------------------------------------------------------|
+| **Nombre:**                    | Frank Yamil    |
+| **Sexo:**                      | Masculino                                                  |
+| **Entrevista:**                | [Link](https://www.youtube.com/watch?v=PFJCu3hOEUk)       |
+ **Entrevistador :**                    | Leonel Alfaro                                       |
+| **Resumen:**         | En una reciente entrevista con Fran Yamil, un residente de San Juan de Lurigancho de 21 años y estudiante universitario, conversamos sobre su experiencia con nuestra aplicación de alquiler de autos. Fran destacó la claridad y utilidad de la información proporcionada sobre mantenimiento, alquiler y búsqueda de autos, afirmando que la aplicación es muy detallada y rápida para realizar reservas. Aunque consideró la interfaz intuitiva, sugirió mejorarla con más colores para hacerla más atractiva. También recomendó mostrar las recomendaciones de otros usuarios en cada alojamiento para facilitar la elección del auto ideal. Fran valoró positivamente la sección de mantenimiento para reportar problemas con los autos y sugirió separar la información personal del método de pago para mayor seguridad. En general, encontró que tener toda la información sobre autos, alquiler y mantenimiento en una sola aplicación es muy conveniente y útil, y agradeció la oportunidad de participar en la entrevista.                                        |
+| **Duración:**                  | 3:33                                                       |
 
 
 **Entrevista 3**

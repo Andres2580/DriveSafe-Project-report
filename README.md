@@ -2629,7 +2629,28 @@ https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8
 
 ### 5.2.3.7.Software Deployment Evidence for Sprint Review
 
-
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_1.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_2.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_3.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_4.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_5.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_6.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_7.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_8.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_9.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_10.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_11.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_12.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_13.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_14.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_15.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_16.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_17.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_18.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_19.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_20.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_21.png)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_22.png)
 
 ### 5.2.3.8.Team Collaboration Insights during Sprint
 

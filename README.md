@@ -2486,6 +2486,34 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
 
 https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8D/sprint
 
+### 5.2.3.3 Development Evidence for Sprint Review
+
+
+### 5.2.3.4.Testing Suite Evidence for Sprint Review
+
+
+### 5.2.3.5.Execution Evidence for Sprint Review
+
+
+### 5.2.3.6.Services Documentation Evidence for Sprint Review
+
+
+### 5.2.3.7.Software Deployment Evidence for Sprint Review
+
+
+### 5.2.3.8.Team Collaboration Insights during Sprint
+
+
+### 5.3. Validation Interviews
+### 5.3.1. Diseño de Entrevistas
+
+
+### 5.3.2. Registro de Entrevistas
+
+
+### 5.3.3. Evaluaciones según heurísticas
+
+
 ### 5.4 Video About-the-Product
 
 El video tiene una duración de un minuto y está diseñado para ser conciso y atractivo, presentando de manera clara y efectiva las ventajas de utilizar nuestra plataforma. A través de imágenes dinámicas y una narrativa envolvente, buscamos transmitir la facilidad de uso, la conveniencia y las oportunidades económicas que ofrecemos tanto a los conductores como a los propietarios de vehículos.

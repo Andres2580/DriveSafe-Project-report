@@ -2708,7 +2708,7 @@ https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8
 
 
 **Entrevista 3**
-| Entrevistado Numero°3                         | ![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/02f5b8f7-5e1c-43dd-966a-5b2b4d07ac80)  |
+| Entrevistado Numero°3                         | ![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/815b67b6-7a04-4b60-b590-3feff523b84a)  |
 |-----------------------------------|------------|
 | Nombre: | Brigitte Llamocca Zarate |
 | Entrevista: | https://www.youtube.com/watch?v=BKo6LyiIyUE |
@@ -2719,7 +2719,7 @@ https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8
 
 **Arrendatario**
 **Entrevista 1**
-| Entrevistado Numero°1                        | ![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/e95d37f0-8f62-42bd-8963-533be39f685c) |
+| Entrevistado Numero°1                        |![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/d801776c-67df-4d62-a547-0dda79594726) |
 |-----------------------------------|------------|
 | Nombre: | Leonisa Salazar Ayra |
 | Entrevista: | https://www.youtube.com/watch?v=ZBylPf7dE1Q |

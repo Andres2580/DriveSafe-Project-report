@@ -2717,7 +2717,7 @@ https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8
 | Duración:         | 5:13 |
 
 **Entrevista 4**
-- **Nombre:**Denisse Caballero
+- **Nombre:** Denisse Caballero
 - **Edad:** 36 años
 - **Distrito:** Callao
 - **Duración:** 3:38 min

@@ -2542,6 +2542,113 @@ https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8
 ### 5.3.3. Evaluaciones según heurísticas
 
 
+**CARRERA**: Ingeniería de Software  
+**CURSO**: Aplicaciones Web  
+**SECCIÓN**: WS54  
+**PROFESOR**: Naldo Reupo-Musayón Gastulo  
+**AUDITOR**: Group 2 - ArtCollab  
+**CLIENTE(S)**: Group 3 - DriveSafe  
+
+---
+
+### SITE o APP A EVALUAR:
+**DriveSafe**
+
+### TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+- Registro de un nuevo usuario
+- Registro de un nuevo vehículo
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+---
+
+### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+  
+| Nivel | Descripción |
+|-------|-------------|
+| 1     | Problema superficial: puede ser fácilmente superador por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente release. |
+| 3     | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+---
+
+### TABLA RESUMEN:
+
+| # | Problema | Escala de severidad | Heurística/Principio violada(o) |
+|---|----------|---------------------|--------------------------------|
+| 1 | No notifica cuando una cuenta fue creada. | 2 | Is it usable? |
+| 2 | Problemas en la adaptabilidad en dispositivos móviles: la pantalla de registro de cuentas no se adapta correctamente en dispositivos móviles, lo que impide el registro de una nueva cuenta. | 4 | Libertad de uso y control |
+| 3 | Algunas pantallas no se adaptan bien en dispositivos móviles. | 1 | Libertad de uso y control |
+| 4 | No hay opción para volver a la página de inicio desde la pantalla de registro. | 3 | Usability: Libertad y control del usuario |
+| 5 | No se actualiza la página con los vehículos registrados. | 4 | Information Architecture: Is it usable? |
+
+---
+
+### DESCRIPCIÓN DE PROBLEMAS:
+
+#### Problema #1: No notifica cuando una cuenta fue creada.
+- **Severidad**: 2
+- **Heurística violada**: Is it usable?
+
+**Problema**:  
+Al momento de haber acabado de registrar una nueva cuenta, la aplicación no indica al usuario si la cuenta fue creada con éxito o no.
+
+**Recomendaciones**:  
+Se recomienda incluir un componente de notificación o popup que le pueda indicar al usuario el estado de la creación de una nueva cuenta.
+
+---
+
+#### Problema #2: Problemas en la adaptabilidad en dispositivos móviles.
+- **Severidad**: 4
+- **Heurística violada**: Libertad de uso y control
+
+**Problema**:  
+Al momento de ingresar a través de dispositivos móviles a la pantalla de registro, se muestran problemas con la adaptación de los componentes.
+
+**Recomendación**:  
+Se recomienda configurar la responsividad de esta vista para dispositivos móviles para mejorar la accesibilidad de la aplicación.
+
+---
+
+#### Problema #3: Algunas pantallas no se adaptan bien en dispositivos móviles.
+- **Severidad**: 1
+- **Heurística violada**: Libertad de uso y control
+
+**Problema**:  
+Al momento de ingresar a través de dispositivos móviles a la aplicación, se muestran problemas con la adaptación de los componentes de algunas vistas.
+
+**Recomendación**:  
+Se recomienda configurar la responsividad de estas vistas para dispositivos móviles para mejorar la accesibilidad de la aplicación.
+
+---
+
+#### Problema #4: No hay opción para volver a la página de inicio desde la pantalla de registro.
+- **Severidad**: 3
+- **Heurística violada**: Usabilidad - Libertad y control del usuario
+
+**Problema**:  
+Cuando un nuevo usuario termine de registrarse, el aplicativo debería tener una opción que permita el retorno a la página de inicio, ya que al terminar de registrarse esta automáticamente no realiza dicha acción.
+
+**Recomendación**:  
+Se debería agregar un botón o un enlace al logo del aplicativo para que de ese modo, al presionar ahí, se redirija al usuario a la página de inicio.
+
+---
+
+#### Problema #5: No se actualiza la página con los vehículos registrados.
+- **Severidad**: 3
+- **Heurística violada**: Information Architecture - Is it usable?
+
+**Problema**:  
+Luego de haber registrado un nuevo vehículo, al dirigirse a la pestaña de Alquiler no se muestra el vehículo registrado. Esto podría ocasionar un grave problema a los usuarios que quieren confirmar que sus vehículos se registraron correctamente en la plataforma.
+
+**Recomendación**:  
+Añadir una función que actualice la página con los vehículos registrados por el usuario.
+
+
+
 ### 5.4 Video About-the-Product
 
 El video tiene una duración de un minuto y está diseñado para ser conciso y atractivo, presentando de manera clara y efectiva las ventajas de utilizar nuestra plataforma. A través de imágenes dinámicas y una narrativa envolvente, buscamos transmitir la facilidad de uso, la conveniencia y las oportunidades económicas que ofrecemos tanto a los conductores como a los propietarios de vehículos.

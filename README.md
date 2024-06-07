@@ -2708,6 +2708,24 @@ https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8
 
 
 **Entrevista 3**
+| Entrevistado Numero°3                         | ![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/02f5b8f7-5e1c-43dd-966a-5b2b4d07ac80)  |
+|-----------------------------------|------------|
+| Nombre: | Brigitte Llamocca Zarate |
+| Entrevista: | https://www.youtube.com/watch?v=BKo6LyiIyUE |
+| Entrevistador: | Jhan Clinton Antonio Salazar |
+| Resumen:       | En una reciente entrevista con Brigitte que es una arrendadora de 22 años nos comenta que tiene su auto y que aún no lo ha puesto en alquiler pero que le gustaria algquilarlo pero no encuentra un lugar segura con personas seguras para alquilarlo porque puedo maltratar su carro. Le mencionamos y mostramos la propuesta de DriveSafe y le pareción muy interesante y dijo que si le gustaría usar la aplicación web.|
+| Duración:         | 5:13 |
+
+
+**Arrendatario**
+**Entrevista 1**
+| Entrevistado Numero°1                        | ![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/e95d37f0-8f62-42bd-8963-533be39f685c) |
+|-----------------------------------|------------|
+| Nombre: | Leonisa Salazar Ayra |
+| Entrevista: | https://www.youtube.com/watch?v=ZBylPf7dE1Q |
+| Entrevistador: | Jhan Clinton Antonio Salazar |
+| Resumen:       | En una reciente entrevista con Leonisa que es una arendatario de 28 años nos comenta que alquilo un auto por marketplace de facebook pero que tuvo mucho inseguridad y hizo un alquiler a us vecino y le parecio bien. Aún no ha alquilado por otro medio pero  le gustaria alquilar un vehiculo pero no encuentra un lugar segura con personas seguras para alquilarlo porque puedo maltratar su carro. Le mencionamos y mostramos la propuesta de DriveSafe y le pareción muy interesante y dijo que si le gustaría usar la aplicación web.|
+| Duración:         | 6:12 |
 
 ### 5.3.3. Evaluaciones según heurísticas
 

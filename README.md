@@ -2506,10 +2506,38 @@ https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8
 
 ### 5.3. Validation Interviews
 ### 5.3.1. Diseño de Entrevistas
+**Preguntas Generales para Ambos Segmentos:**
 
+-   ¿Cuál es su nombre?
+-   ¿Qué edad tiene?
+-   ¿Dónde reside actualmente?
+-   ¿Cuál es su ocupación actual?
+
+**Preguntas para el Arrendador:**
+
+-   ¿Usted en alguna oportunidad puso en alquiler su vehículo?
+-   ¿Qué nivel de importancia le da al seguro de vehículos al momento de poner su vehículo en alquiler?
+-   ¿Qué características específicas de su automóvil cree que son más atractivas para los posibles arrendatarios?
+-   ¿Cómo cree que la flexibilidad en los métodos de pago puede afectar la demanda de alquiler de su vehículo?
+-   ¿Usted estaría interesado en poner en alquiler su auto por medio de una aplicación web móvil?
+
+**Preguntas para el Arrendatario:**
+
+-
+-
+-
 
 ### 5.3.2. Registro de Entrevistas
 
+**Arrendador**
+
+**Entrevista 1**
+
+
+**Entrevista 2**
+
+
+**Entrevista 3**
 
 ### 5.3.3. Evaluaciones según heurísticas
 

@@ -2523,9 +2523,12 @@ https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8
 
 **Preguntas para el Arrendatario:**
 
--
--
--
+- ¿Usted ha alquilado un auto alguna vez? Si su respuesta es sí ¿Por qué medio lo hizo?
+- ¿Qué es lo que usted prioriza o priorizaría al alquilar un auto?
+- ¿Qué información considera importante conocer antes de alquilar un auto?
+- ¿Qué carácterística o características cree que debería tener obligatoriamente un servicio de alquiler de autos?
+- ¿Cómo cree que se debería cobrar por el alquiler de un auto? ¿Por minuto, media hora, hora o día?
+- ¿Usted estaría interesado en alquilar un auto por medio de una aplicación web? ¿Por qué?
 
 ### 5.3.2. Registro de Entrevistas
 

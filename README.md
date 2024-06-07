@@ -2551,10 +2551,10 @@ https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8
 
 ---
 
-# SITE o APP A EVALUAR:
+#### SITE o APP A EVALUAR:
 **DriveSafe**
 
-## TAREAS A EVALUAR:
+#### TAREAS A EVALUAR:
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 - Registro de un nuevo usuario
 - Registro de un nuevo vehículo
@@ -2563,7 +2563,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 
 ---
 
-## ESCALA DE SEVERIDAD:
+#### ESCALA DE SEVERIDAD:
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
   
 | Nivel | Descripción |
@@ -2575,7 +2575,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ---
 
-## TABLA RESUMEN:
+#### TABLA RESUMEN:
 
 | # | Problema | Escala de severidad | Heurística/Principio violada(o) |
 |---|----------|---------------------|--------------------------------|
@@ -2587,7 +2587,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ---
 
-## DESCRIPCIÓN DE PROBLEMAS:
+#### DESCRIPCIÓN DE PROBLEMAS:
 
 #### Problema #1: No notifica cuando una cuenta fue creada.
 - **Severidad**: 2

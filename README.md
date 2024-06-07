@@ -2518,8 +2518,8 @@ https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8
 -   ¿Usted en alguna oportunidad puso en alquiler su vehículo?
 -   ¿Qué nivel de importancia le da al seguro de vehículos al momento de poner su vehículo en alquiler?
 -   ¿Qué características específicas de su automóvil cree que son más atractivas para los posibles arrendatarios?
--   ¿Cómo cree que la flexibilidad en los métodos de pago puede afectar la demanda de alquiler de su vehículo?
--   ¿Usted estaría interesado en poner en alquiler su auto por medio de una aplicación web móvil?
+-   ¿De qué manera considera que dar opciones de pago diferidos podría influir en la cantidad de clientes que desean alquilar su vehículo?
+-   ¿Usted le gustaria alquilar su auto mediante una aplicación web móvil?
 
 **Preguntas para el Arrendatario:**
 

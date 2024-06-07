@@ -2551,10 +2551,10 @@ https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8
 
 ---
 
-### SITE o APP A EVALUAR:
+## SITE o APP A EVALUAR:
 **DriveSafe**
 
-### TAREAS A EVALUAR:
+## TAREAS A EVALUAR:
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 - Registro de un nuevo usuario
 - Registro de un nuevo vehículo
@@ -2563,7 +2563,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 
 ---
 
-### ESCALA DE SEVERIDAD:
+## ESCALA DE SEVERIDAD:
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
   
 | Nivel | Descripción |
@@ -2575,7 +2575,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ---
 
-### TABLA RESUMEN:
+## TABLA RESUMEN:
 
 | # | Problema | Escala de severidad | Heurística/Principio violada(o) |
 |---|----------|---------------------|--------------------------------|
@@ -2587,7 +2587,7 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 ---
 
-### DESCRIPCIÓN DE PROBLEMAS:
+## DESCRIPCIÓN DE PROBLEMAS:
 
 #### Problema #1: No notifica cuando una cuenta fue creada.
 - **Severidad**: 2
@@ -2595,6 +2595,8 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 **Problema**:  
 Al momento de haber acabado de registrar una nueva cuenta, la aplicación no indica al usuario si la cuenta fue creada con éxito o no.
+
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/2fdb7a98-f137-47d4-b412-8063a64cbd2e)
 
 **Recomendaciones**:  
 Se recomienda incluir un componente de notificación o popup que le pueda indicar al usuario el estado de la creación de una nueva cuenta.
@@ -2608,6 +2610,8 @@ Se recomienda incluir un componente de notificación o popup que le pueda indica
 **Problema**:  
 Al momento de ingresar a través de dispositivos móviles a la pantalla de registro, se muestran problemas con la adaptación de los componentes.
 
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/fe38abf6-1346-4c90-a57a-8e830824eaa0)
+
 **Recomendación**:  
 Se recomienda configurar la responsividad de esta vista para dispositivos móviles para mejorar la accesibilidad de la aplicación.
 
@@ -2619,6 +2623,8 @@ Se recomienda configurar la responsividad de esta vista para dispositivos móvil
 
 **Problema**:  
 Al momento de ingresar a través de dispositivos móviles a la aplicación, se muestran problemas con la adaptación de los componentes de algunas vistas.
+
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/0d978d12-50e8-4582-a8e8-d2efe4e53323)
 
 **Recomendación**:  
 Se recomienda configurar la responsividad de estas vistas para dispositivos móviles para mejorar la accesibilidad de la aplicación.
@@ -2632,6 +2638,8 @@ Se recomienda configurar la responsividad de estas vistas para dispositivos móv
 **Problema**:  
 Cuando un nuevo usuario termine de registrarse, el aplicativo debería tener una opción que permita el retorno a la página de inicio, ya que al terminar de registrarse esta automáticamente no realiza dicha acción.
 
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/41c4cbe9-107b-48d3-9d73-ea34f7407ad1)
+
 **Recomendación**:  
 Se debería agregar un botón o un enlace al logo del aplicativo para que de ese modo, al presionar ahí, se redirija al usuario a la página de inicio.
 
@@ -2644,9 +2652,10 @@ Se debería agregar un botón o un enlace al logo del aplicativo para que de ese
 **Problema**:  
 Luego de haber registrado un nuevo vehículo, al dirigirse a la pestaña de Alquiler no se muestra el vehículo registrado. Esto podría ocasionar un grave problema a los usuarios que quieren confirmar que sus vehículos se registraron correctamente en la plataforma.
 
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/6fa109c3-2746-413c-9953-e66c4003b2e9)
+
 **Recomendación**:  
 Añadir una función que actualice la página con los vehículos registrados por el usuario.
-
 
 
 ### 5.4 Video About-the-Product

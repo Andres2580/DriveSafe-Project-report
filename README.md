@@ -2888,7 +2888,8 @@ Link del Trello: https://trello.com/b/WkPh4Zxb/sprint-4
 [![UNIT-TEST-5.jpg](https://i.postimg.cc/1XhBP5Rw/UNIT-TEST-5.jpg)](https://postimg.cc/KkfBDbM8)
 
 #### UNIT-TEST-6
-[![UNIT-TEST-6.jpg](https://i.postimg.cc/dQrn6dnB/UNIT-TEST-6.jpg)](https://postimg.cc/rzySFDB0)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/cbec0d12-a28f-4754-8c82-ffc3ead5a276)
+
 
 <table>
   <tr>

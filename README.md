@@ -2947,10 +2947,10 @@ Link de nuestra rama de testing:
 #### Execution Evidence for Sprint 4 Review 
 
 Login
-![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/a0a44dd7-3284-4c88-abe2-4a94f0d7c06e)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/c3e35bed28da12f5641f096aa252f1fd304e3a74/imagenes/login.png)
 
 Registro
-![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/38ff34be-4fbe-4119-8559-c12f3e3f6808)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/c3e35bed28da12f5641f096aa252f1fd304e3a74/imagenes/registro.jpg)
 
 Página de inicio arrendatario
 ![imagen](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/37128dd05dcc4cdd01dd1d69ce4d234b242359b4/imagenes/Arrendatario/inicio_arrendatario.png)

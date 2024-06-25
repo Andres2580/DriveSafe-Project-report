@@ -3230,8 +3230,12 @@ El video tiene una duración de un minuto y está diseñado para ser conciso y a
 ![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/2926c13d-26ae-44d5-8e7f-cf4d4e32e32c)
 
 Enlace del vídeo: https://youtu.be/Ab7koXuNdgg
+### Video About-the-Team
+
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/76936c97-509d-4da9-b644-a6bbc57c35eb)
 
 
+Enlace del vídeo: https://youtu.be/488O_3GCiFo
 
 ### Bibliografía 
 

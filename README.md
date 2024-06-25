@@ -2986,6 +2986,12 @@ Capturas de pantalla que ilustran la implementación exitosa de los endpoints en
 
 #### Software Deployment Evidence for Sprint 4 Review
 
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/c31e6b81-a12d-44ac-9838-40974b8e7587)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/4951aa9f-7da2-4a6b-982d-2f6fafb2a683)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/c1769a75-5786-4a85-a0af-842d44b495c6)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/f8e9b17c-272a-4844-8596-596a65ac2891)
+
+
 
 
 #### Team Collaboration Insights during Sprint 4

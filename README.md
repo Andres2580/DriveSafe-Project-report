@@ -2656,6 +2656,7 @@ https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8
 ![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/10dcacd62584befdb0faab87d765a976ba33f7a8/imagenes/Software%20Deployment%20Evidence%20for%20Sprint%20Review_22.png)
 
 ### 5.2.3.8.Team Collaboration Insights during Sprint
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/9cd66458-4e51-49fb-a42e-af793859da6d)
 
 
 ### 5.2.4 Sprint 4
@@ -2674,7 +2675,7 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
   </tr>
   <tr>
     <td align="center">Date</td>
-    <td align="center">2023-11-18</td>
+    <td align="center">2024-06-18</td>
   </tr>
   <tr>
     <td align="center">Time</td>
@@ -2686,11 +2687,11 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
   </tr>
   <tr>
     <td align="center">Prepared By</td>
-    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+    <td align="center">Luis Enrique Aquije Quiroga</td>
   </tr>
   <tr>
     <td align="center">Attendees (to planning meeting)</td>
-    <td align="center">Alonso Fernando Robles Astuñaupa<br>Erick Gabriel Urbizagasteui Alvarez<br>Johan Raúl Moreno Vergara<br>Luis Fernando Isla Quispe<br>Nicolás Zagal Vallejo</td>
+    <td align="center">Nelson Elías Serrano Ircañaupa<br>Carlos Andres Rojas Ccama<br>Jhan Clinton Antonio Salazar<br>Luis Enrique Aquije Quiroga<br>Leonel Alfaro Cumba</td>
   </tr>
   <tr>
     <td align="center">Sprint 3 - 2 – 1 Review Summary</td>
@@ -2718,9 +2719,9 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
 </table><br>
 
 
-[![Sprint-4.png](https://i.postimg.cc/DwQnS7YY/Sprint-4.png)](https://postimg.cc/RW0j8xmc)
+![Imagen de WhatsApp 2024-06-25 a las 16 17 07_754e4834](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/a77cdcc4-b00a-478d-806e-c54a33091029)
 
-Link del Trello: [Sprint 4](https://trello.com/b/JssyxTvf/sprint-4)
+Link del Trello: https://trello.com/b/WkPh4Zxb/sprint-4
 
 
 #### Sprint Backlog 4
@@ -2751,7 +2752,7 @@ Link del Trello: [Sprint 4](https://trello.com/b/JssyxTvf/sprint-4)
     <td align="center">Conectar el Frontend con el Backend</td>
     <td align="center">	Conectar el Frontend con el Backend</td>
     <td align="center">6</td>
-    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+    <td align="center">Nelson Elías Serrano Ircañaupa, Carlos Andres Rojas Ccama, Jhan Clinton Antonio Salazar, Luis Enrique Aquije Quiroga, Leonel Alfaro Cumba</td>
     <td align="center">In process</td>
   </tr>
   <tr>
@@ -2761,7 +2762,7 @@ Link del Trello: [Sprint 4](https://trello.com/b/JssyxTvf/sprint-4)
     <td align="center">Relizar los testeos</td>
     <td align="center">Relizar el conjunto de testing a nuestro proyecto para asegurar la calidad del software</td>
     <td align="center">3</td>
-    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+    <td align="center">Nelson Elías Serrano Ircañaupa, Carlos Andres Rojas Ccama, Jhan Clinton Antonio Salazar, Luis Enrique Aquije Quiroga, Leonel Alfaro Cumba </td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -2771,7 +2772,7 @@ Link del Trello: [Sprint 4](https://trello.com/b/JssyxTvf/sprint-4)
     <td align="center">Correcciones al Backend</td>
     <td align="center">Correcciones al Backend</td>
     <td align="center">3</td>
-    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+    <td align="center">Nelson Elías Serrano Ircañaupa, Carlos Andres Rojas Ccama, Jhan Clinton Antonio Salazar, Luis Enrique Aquije Quiroga, Leonel Alfaro Cumba</td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -2781,7 +2782,7 @@ Link del Trello: [Sprint 4](https://trello.com/b/JssyxTvf/sprint-4)
     <td align="center">Controllers principales terminados</td>
     <td align="center">Controllers principales terminados</td>
     <td align="center">4</td>
-    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+    <td align="center">Nelson Elías Serrano Ircañaupa, Carlos Andres Rojas Ccama, Jhan Clinton Antonio Salazar, Luis Enrique Aquije Quiroga, Leonel Alfaro Cumba</td>
     <td align="center">Done</td>
   </tr>
   <tr>
@@ -2791,7 +2792,7 @@ Link del Trello: [Sprint 4](https://trello.com/b/JssyxTvf/sprint-4)
     <td align="center">Security</td>
     <td align="center">Security</td>
     <td align="center">4</td>
-    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+    <td align="center">Nelson Elías Serrano Ircañaupa, Carlos Andres Rojas Ccama, Jhan Clinton Antonio Salazar, Luis Enrique Aquije Quiroga, Leonel Alfaro Cumba</td>
     <td align="center">Done</td>
   </tr>
 </table>
@@ -2809,60 +2810,57 @@ Link del Trello: [Sprint 4](https://trello.com/b/JssyxTvf/sprint-4)
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-BackEnd-main</td>
     <td align="center">feature/main</td>
     <td align="center">e0087d3f8ee5c49500706b2f8879a89c8165b9eb</td>
     <td align="center">Creación de entities</td>
     <td align="center">Creación de entities</td>
-    <td align="center">02/11/2023</td>
+    <td align="center">12/06/2024</td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-BackEnd-main</td>
     <td align="center">feature/main</td>
     <td align="center">5123e21e8dc8c8d6cd4f3dffae8d9f57d7254fef</td>
     <td align="center">Creación de repositories</td>
     <td align="center">Creación de repositories</td>
-    <td align="center">02/11/2023</td>
+    <td align="center">12/06/2024</td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-BackEnd-main</td>
     <td align="center">feature/main</td>
     <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
     <td align="center">Creación de services</td>
     <td align="center">Creación de services
 </td>
-    <td align="center">02/11/2023</td>
+    <td align="center">20/06/2024</td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
-    <td align="center">feature/Nicolás-Zagal</td>
+    <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-BackEnd-main</td>
+    <td align="center">feature/main</td>
     <td align="center">24dfffbeb57459cac0b99b3e0c65bd1eb9058a1c</td>
     <td align="center">Creación de controllers</td>
     <td align="center">Creación de controllers
 </td>
-    <td align="center">02/11/2023</td>
+    <td align="center">20/06/2024</td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
-    <td align="center">Alonso-Robles</td>
+    <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-BackEnd-main</td>
     <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
     <td align="center">Creación de resources</td>
     <td align="center">Creación de resources</td>
-  <td align="center">02/11/2023</td>
+  <td align="center">21/06/2024</td>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
-    <td align="center">Johan-Moreno</td>
+    <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-BackEnd-main</td>
     <td align="center">24bc43accda47ab3c79b8dd251aaff7596dc2948</td>
     <td align="center">Creación de responses</td>
     <td align="center">Creación de responses</td>
-  <td align="center">03/11/2023</td>
+  <td align="center">23/06/2024</td>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
-    <td align="center">Erick-Urbizagástegui</td>
+    <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-BackEnd-main</td>
     <td align="center">2f1aead8ff961ea83be52414d62cb90ef1fb8233</td>
     <td align="center">Configuración de la base de datos</td>
     <td align="center">Configuración de la base de datos</td>
-  <td align="center">04/11/2023</td>
+  <td align="center">24/06/2024</td>
   
 </table>
 
@@ -2870,26 +2868,24 @@ Link del Trello: [Sprint 4](https://trello.com/b/JssyxTvf/sprint-4)
 
 <p>Evidencias de nuestro conjunto de Unit Tests</p>
 
-Link de nuestra rama de testing: [AutoYa Backend Testing Branch](https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend/tree/Testing)
-
+Link de nuestra rama de testing:
 
 #### UNIT-TEST-1
-[![UNIT-TEST-1.jpg](https://i.postimg.cc/c1nkzP1f/UNIT-TEST-1.jpg)](https://postimg.cc/F1hxdWLK)
+
 
 #### UNIT-TEST-2
-[![UNIT-TEST-2.jpg](https://i.postimg.cc/VkY7d6qF/UNIT-TEST-2.jpg)](https://postimg.cc/qz5cFpZt)
+
 
 #### UNIT-TEST-3
-[![UNIT-TEST-3.jpg](https://i.postimg.cc/KYjJDHsk/UNIT-TEST-3.jpg)](https://postimg.cc/3yMXKnhY)
+
 
 #### UNIT-TEST-4
-[![UNIT-TEST-4.jpg](https://i.postimg.cc/7LRXsnpB/UNIT-TEST-4.jpg)](https://postimg.cc/JybbtZ7J)
+
 
 #### UNIT-TEST-5
-[![UNIT-TEST-5.jpg](https://i.postimg.cc/1XhBP5Rw/UNIT-TEST-5.jpg)](https://postimg.cc/KkfBDbM8)
+
 
 #### UNIT-TEST-6
-[![UNIT-TEST-6.jpg](https://i.postimg.cc/dQrn6dnB/UNIT-TEST-6.jpg)](https://postimg.cc/rzySFDB0)
 
 <table>
   <tr>

@@ -2486,6 +2486,386 @@ Se realizó una reunión en Discord con todos los integrantes del grupo presente
 
 https://trello.com/invite/b/bLvgjzEw/ATTI396c16a85bccb1182afdfba772cf4c62485A7E8D/sprint
 
+
+----------------------------
+### Sprint 4
+
+#### Sprint Planning 4
+
+Se realizó una reunión en Discord con todos los integrantes del grupo presentes para poder asignar tareas a cada uno de estos. Asimismo, se creó un chat grupal en WhatsApp para poder resolver las dudas que tengamos y notificarnos de actualizaciones.
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint #</strong></td>
+    <td align="center"><strong>4</strong></td>
+  </tr>
+  <tr>
+  <td colspan="2" align="center"><strong>Sprint Planning Background</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Date</td>
+    <td align="center">2023-11-18</td>
+  </tr>
+  <tr>
+    <td align="center">Time</td>
+    <td align="center">3:30 PM</td>
+  </tr>
+  <tr>
+    <td align="center">Location</td>
+    <td align="center">Reunión virtual por Discord</td>
+  </tr>
+  <tr>
+    <td align="center">Prepared By</td>
+    <td align="center">Urbizagastegui Alvarez, Erick Gabriel</td>
+  </tr>
+  <tr>
+    <td align="center">Attendees (to planning meeting)</td>
+    <td align="center">Alonso Fernando Robles Astuñaupa<br>Erick Gabriel Urbizagasteui Alvarez<br>Johan Raúl Moreno Vergara<br>Luis Fernando Isla Quispe<br>Nicolás Zagal Vallejo</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 - 2 – 1 Review Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 3 -2 – 1 Retrospective Summary</td>
+    <td align="center">No aplica</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>Sprint Goal & User Stories</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Sprint 4 Goal</td>
+    <td align="center">Se debe realizar correcciones Backend, conectar el backend con el Fronted, implementar temas de seguridad y testeos.</td>
+  </tr>
+  <tr>
+    <td align="center">Sprint n Velocity</td>
+    <td align="center">5 días</td>
+  </tr>
+  <tr>
+    <td align="center">Sum of Story Points</td>
+    <td align="center">No aplica</td>
+  </tr>
+</table><br>
+
+
+[![Sprint-4.png](https://i.postimg.cc/DwQnS7YY/Sprint-4.png)](https://postimg.cc/RW0j8xmc)
+
+Link del Trello: [Sprint 4](https://trello.com/b/JssyxTvf/sprint-4)
+
+
+#### Sprint Backlog 4
+
+<table>
+  <tr>
+    <td align="center"><strong>Sprint</td>
+    <td colspan="7" align="center"><strong>4</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><strong>User Story</strong></td>
+    <td colspan="6" align="center"><strong>Work-Item / Task</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>ID</strong></td>
+    <td align="center"><strong>Title</strong></td>
+    <td align="center"><strong>Description</strong></td>
+    <td align="center"><strong>Estimation (Hours)</strong></td>
+    <td align="center"><strong>Assigned To</strong></td>
+    <td align="center"><strong>Status (To-do / In-Process / To-Review / Done)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI01</td>
+    <td align="center">Conectar el Frontend con el Backend</td>
+    <td align="center">	Conectar el Frontend con el Backend</td>
+    <td align="center">6</td>
+    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+    <td align="center">In process</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI02</td>
+    <td align="center">Relizar los testeos</td>
+    <td align="center">Relizar el conjunto de testing a nuestro proyecto para asegurar la calidad del software</td>
+    <td align="center">3</td>
+    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI03</td>
+    <td align="center">Correcciones al Backend</td>
+    <td align="center">Correcciones al Backend</td>
+    <td align="center">3</td>
+    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI04</td>
+    <td align="center">Controllers principales terminados</td>
+    <td align="center">Controllers principales terminados</td>
+    <td align="center">4</td>
+    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+    <td align="center">Done</td>
+  </tr>
+  <tr>
+    <td align="center">No aplica</td>
+    <td align="center">No aplica</td>
+    <td align="center">WI05</td>
+    <td align="center">Security</td>
+    <td align="center">Security</td>
+    <td align="center">4</td>
+    <td align="center">Erick Urbizagastegui, Alonso, Robles, Johan Moreno, Luis Isla, Nicolás Zagal, Jhan Antonio </td>
+    <td align="center">Done</td>
+  </tr>
+</table>
+
+
+#### Development Evidence for Sprint 4 Review
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">feature/main</td>
+    <td align="center">e0087d3f8ee5c49500706b2f8879a89c8165b9eb</td>
+    <td align="center">Creación de entities</td>
+    <td align="center">Creación de entities</td>
+    <td align="center">02/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">feature/main</td>
+    <td align="center">5123e21e8dc8c8d6cd4f3dffae8d9f57d7254fef</td>
+    <td align="center">Creación de repositories</td>
+    <td align="center">Creación de repositories</td>
+    <td align="center">02/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">feature/main</td>
+    <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
+    <td align="center">Creación de services</td>
+    <td align="center">Creación de services
+</td>
+    <td align="center">02/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">feature/Nicolás-Zagal</td>
+    <td align="center">24dfffbeb57459cac0b99b3e0c65bd1eb9058a1c</td>
+    <td align="center">Creación de controllers</td>
+    <td align="center">Creación de controllers
+</td>
+    <td align="center">02/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">Alonso-Robles</td>
+    <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
+    <td align="center">Creación de resources</td>
+    <td align="center">Creación de resources</td>
+  <td align="center">02/11/2023</td>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">Johan-Moreno</td>
+    <td align="center">24bc43accda47ab3c79b8dd251aaff7596dc2948</td>
+    <td align="center">Creación de responses</td>
+    <td align="center">Creación de responses</td>
+  <td align="center">03/11/2023</td>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend</td>
+    <td align="center">Erick-Urbizagástegui</td>
+    <td align="center">2f1aead8ff961ea83be52414d62cb90ef1fb8233</td>
+    <td align="center">Configuración de la base de datos</td>
+    <td align="center">Configuración de la base de datos</td>
+  <td align="center">04/11/2023</td>
+  
+</table>
+
+#### Testing Suite Evidence for Sprint 4 Reviews
+
+<p>Evidencias de nuestro conjunto de Unit Tests</p>
+
+Link de nuestra rama de testing: [AutoYa Backend Testing Branch](https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend/tree/Testing)
+
+
+#### UNIT-TEST-1
+[![UNIT-TEST-1.jpg](https://i.postimg.cc/c1nkzP1f/UNIT-TEST-1.jpg)](https://postimg.cc/F1hxdWLK)
+
+#### UNIT-TEST-2
+[![UNIT-TEST-2.jpg](https://i.postimg.cc/VkY7d6qF/UNIT-TEST-2.jpg)](https://postimg.cc/qz5cFpZt)
+
+#### UNIT-TEST-3
+[![UNIT-TEST-3.jpg](https://i.postimg.cc/KYjJDHsk/UNIT-TEST-3.jpg)](https://postimg.cc/3yMXKnhY)
+
+#### UNIT-TEST-4
+[![UNIT-TEST-4.jpg](https://i.postimg.cc/7LRXsnpB/UNIT-TEST-4.jpg)](https://postimg.cc/JybbtZ7J)
+
+#### UNIT-TEST-5
+[![UNIT-TEST-5.jpg](https://i.postimg.cc/1XhBP5Rw/UNIT-TEST-5.jpg)](https://postimg.cc/KkfBDbM8)
+
+#### UNIT-TEST-6
+[![UNIT-TEST-6.jpg](https://i.postimg.cc/dQrn6dnB/UNIT-TEST-6.jpg)](https://postimg.cc/rzySFDB0)
+
+<table>
+  <tr>
+    <td align="center"><strong>Repository</strong></td>
+    <td align="center"><strong>Branch</strong></td>
+    <td align="center"><strong>Commit ID</strong></td>
+    <td align="center"><strong>Commit Message</strong></td>
+    <td align="center"><strong>Commit Message Body</strong></td>
+    <td align="center"><strong>Commited on (Date)</strong></td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend/tree/Testing</td>
+    <td align="center">Testing</td>
+    <td align="center">c51847f5bf6f8373f8dcfa29b7f878ba59ca5e79</td>
+    <td align="center">Update rider.project.model.nuget.info</td>
+    <td align="center">-</td>
+    <td align="center">19/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend/tree/Testing</td>
+    <td align="center">Testing</td>
+    <td align="center">f531c3eb079903e237fa9fa7ebcdcde47f153733</td>
+    <td align="center">Update rider.project.model.nuget.info</td>
+    <td align="center">-</td>
+    <td align="center">19/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend/tree/Testing</td>
+    <td align="center">Testing</td>
+    <td align="center">87fcc61e3725fa21ba80529316cf7ebe08f8e976</td>
+    <td align="center">Update rider.project.model.nuget.info</td>
+    <td align="center">-</td>
+    <td align="center">19/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend/tree/Testing</td>
+    <td align="center">Testing</td>
+    <td align="center">a7019186152f62a258a8ed55bdf3e786277b9071</td>
+    <td align="center">Update rider.project.model.nuget.info</td>
+    <td align="center">-</td>
+    <td align="center">19/11/2023</td>
+  </tr>
+  <tr>
+    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend/tree/Testing</td>
+    <td align="center">Testing</td>
+    <td align="center">9090eb204240f1efc38099faa75bcc4584a069aa</td>
+    <td align="center">Update rider.project.model.nuget.info</td>
+    <td align="center">-</td>
+  <td align="center">19/11/2023</td>
+  
+  
+</table>
+
+
+
+#### Execution Evidence for Sprint 4 Review 
+
+Login
+
+![Imgur](https://i.imgur.com/fJolrt6.png)
+
+Registro
+
+![Imgur](https://i.imgur.com/qfnTOCU.png)
+
+Página de inicio arrendatario
+
+![Imgur](https://i.imgur.com/tvVyBCS.png)
+
+Página de inicio propietario
+
+![Imgur](https://i.imgur.com/tBc2Yvr.png)
+
+Notificaciones propietario
+
+![Imgur](https://i.imgur.com/K9iM34v.png)
+
+Perfil arrendatario
+
+![Imgur](https://i.imgur.com/bQoRxY5.png)
+
+Perfil propietario
+
+![Imgur](https://i.imgur.com/iWC67yB.png)
+
+Búsqueda de autos arrendatario
+
+![Imgur](https://i.imgur.com/SAKfqed.png)
+
+Mantenimiento arrendatario
+
+![Imgur](https://i.imgur.com/jtvxqbg.png)
+
+Registro vehicular propietario
+
+![Imgur](https://i.imgur.com/rj2tPkf.png)
+
+Creación de contrato de alquiler propietario
+
+![Imgur](https://i.imgur.com/rj2tPkf.png)
+
+Alquiler arrendatario
+
+![Imgur](https://i.imgur.com/1vkH71O.png)
+
+Alquiler propietario
+
+![Imgur](https://i.imgur.com/IXD6mR7.png)
+
+
+#### Services Documentation Evidence for Sprint 4 Review 
+
+Capturas de pantalla que ilustran la implementación exitosa de los endpoints en el backend:
+
+![Imgur](https://i.imgur.com/ndAHMlP.png)
+
+![Imgur](https://i.imgur.com/dgfUU0i.png)
+
+![Imgur](https://i.imgur.com/avyEiq5.png)
+
+![Imgur](https://i.imgur.com/RS3S5MJ.png)
+
+#### Software Deployment Evidence for Sprint 4 Review
+
+[![1.jpg](https://i.postimg.cc/hGpF3BvZ/1.jpg)](https://postimg.cc/qthZzW82)
+
+[![2.jpg](https://i.postimg.cc/d11bbxTs/2.jpg)](https://postimg.cc/3ysfp9BV)
+
+[![3.jpg](https://i.postimg.cc/4yHrdH5j/3.jpg)](https://postimg.cc/H8HSvxFt)
+
+![Imgur](https://i.imgur.com/CcXXtlE.png)
+
+![Imgur](https://i.imgur.com/NEuCD4z.png)
+
+![Imgur](https://i.imgur.com/SLaut7w.png)
+
+#### Team Collaboration Insights during Sprint 4
+
+[![Insights.png](https://i.postimg.cc/Fz834hy3/Insights.png)](https://postimg.cc/SYLJLFtx)
+
+[![code-frecuency.png](https://i.postimg.cc/13ZJTZyb/code-frecuency.png)](https://postimg.cc/LnNtYwYV)
+
+-------------
+
+
+
 ### 5.2.3.3 Development Evidence for Sprint Review
 
 <table>

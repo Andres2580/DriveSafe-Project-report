@@ -2981,8 +2981,13 @@ Registro vehicular propietario
 
 #### Services Documentation Evidence for Sprint 4 Review 
 
-Capturas de pantalla que ilustran la implementación exitosa de los endpoints en el backend:
+Se muestran capturas de pantalla que ilustran la implementación exitosa de los endpoints en el backend:
 
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/15421c0f-57c2-4f7d-afaf-b07f5d556643)
+
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/5c00ef12-b274-4304-8940-a9457c5791ef)
+
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/89f25500-eb02-4287-bed4-f39746b22b4d)
 
 
 #### Software Deployment Evidence for Sprint 4 Review

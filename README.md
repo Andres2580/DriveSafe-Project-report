@@ -2845,18 +2845,21 @@ Link del Trello: https://trello.com/b/WkPh4Zxb/sprint-4
   </tr>
   <tr>
     <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-BackEnd-main</td>
+    <td align="center">feature/main</td>
     <td align="center">023861d022d202a709a89101faa601ccd2d88248</td>
     <td align="center">Creación de resources</td>
     <td align="center">Creación de resources</td>
   <td align="center">21/06/2024</td>
   <tr>
     <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-BackEnd-main</td>
+    <td align="center">feature/main</td>
     <td align="center">24bc43accda47ab3c79b8dd251aaff7596dc2948</td>
     <td align="center">Creación de responses</td>
     <td align="center">Creación de responses</td>
   <td align="center">23/06/2024</td>
   <tr>
     <td align="center">https://github.com/AppWeb-Grupo3/DriveSafe-BackEnd-main</td>
+    <td align="center">feature/main</td>
     <td align="center">2f1aead8ff961ea83be52414d62cb90ef1fb8233</td>
     <td align="center">Configuración de la base de datos</td>
     <td align="center">Configuración de la base de datos</td>
@@ -2897,44 +2900,44 @@ Link de nuestra rama de testing:
     <td align="center"><strong>Commited on (Date)</strong></td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend/tree/Testing</td>
+    <td align="center"> </td>
     <td align="center">Testing</td>
     <td align="center">c51847f5bf6f8373f8dcfa29b7f878ba59ca5e79</td>
     <td align="center">Update rider.project.model.nuget.info</td>
     <td align="center">-</td>
-    <td align="center">19/11/2023</td>
+    <td align="center">20/06/2024</td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend/tree/Testing</td>
+    <td align="center"> </td>
     <td align="center">Testing</td>
     <td align="center">f531c3eb079903e237fa9fa7ebcdcde47f153733</td>
     <td align="center">Update rider.project.model.nuget.info</td>
     <td align="center">-</td>
-    <td align="center">19/11/2023</td>
+    <td align="center">21/06/2024</td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend/tree/Testing</td>
+    <td align="center"> </td>
     <td align="center">Testing</td>
     <td align="center">87fcc61e3725fa21ba80529316cf7ebe08f8e976</td>
     <td align="center">Update rider.project.model.nuget.info</td>
     <td align="center">-</td>
-    <td align="center">19/11/2023</td>
+    <td align="center">21/06/2024</td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend/tree/Testing</td>
+    <td align="center"> </td>
     <td align="center">Testing</td>
     <td align="center">a7019186152f62a258a8ed55bdf3e786277b9071</td>
     <td align="center">Update rider.project.model.nuget.info</td>
     <td align="center">-</td>
-    <td align="center">19/11/2023</td>
+    <td align="center">22/06/2024</td>
   </tr>
   <tr>
-    <td align="center">https://github.com/AutoYa-Aplicaciones-Web-WS52-Grupo-2/AutoYa-Backend/tree/Testing</td>
+    <td align="center"> </td>
     <td align="center">Testing</td>
     <td align="center">9090eb204240f1efc38099faa75bcc4584a069aa</td>
     <td align="center">Update rider.project.model.nuget.info</td>
     <td align="center">-</td>
-  <td align="center">19/11/2023</td>
+  <td align="center">24/06/2024</td>
   
   
 </table>
@@ -2945,90 +2948,64 @@ Link de nuestra rama de testing:
 
 Login
 
-![Imgur](https://i.imgur.com/fJolrt6.png)
+
 
 Registro
 
-![Imgur](https://i.imgur.com/qfnTOCU.png)
+
 
 Página de inicio arrendatario
 
-![Imgur](https://i.imgur.com/tvVyBCS.png)
+
 
 Página de inicio propietario
 
-![Imgur](https://i.imgur.com/tBc2Yvr.png)
+
 
 Notificaciones propietario
 
-![Imgur](https://i.imgur.com/K9iM34v.png)
+
 
 Perfil arrendatario
 
-![Imgur](https://i.imgur.com/bQoRxY5.png)
+
 
 Perfil propietario
 
-![Imgur](https://i.imgur.com/iWC67yB.png)
+
 
 Búsqueda de autos arrendatario
 
-![Imgur](https://i.imgur.com/SAKfqed.png)
+
 
 Mantenimiento arrendatario
 
-![Imgur](https://i.imgur.com/jtvxqbg.png)
+
 
 Registro vehicular propietario
 
-![Imgur](https://i.imgur.com/rj2tPkf.png)
+
 
 Creación de contrato de alquiler propietario
 
-![Imgur](https://i.imgur.com/rj2tPkf.png)
 
-Alquiler arrendatario
-
-![Imgur](https://i.imgur.com/1vkH71O.png)
-
-Alquiler propietario
-
-![Imgur](https://i.imgur.com/IXD6mR7.png)
 
 
 #### Services Documentation Evidence for Sprint 4 Review 
 
 Capturas de pantalla que ilustran la implementación exitosa de los endpoints en el backend:
 
-![Imgur](https://i.imgur.com/ndAHMlP.png)
 
-![Imgur](https://i.imgur.com/dgfUU0i.png)
-
-![Imgur](https://i.imgur.com/avyEiq5.png)
-
-![Imgur](https://i.imgur.com/RS3S5MJ.png)
 
 #### Software Deployment Evidence for Sprint 4 Review
 
-[![1.jpg](https://i.postimg.cc/hGpF3BvZ/1.jpg)](https://postimg.cc/qthZzW82)
 
-[![2.jpg](https://i.postimg.cc/d11bbxTs/2.jpg)](https://postimg.cc/3ysfp9BV)
-
-[![3.jpg](https://i.postimg.cc/4yHrdH5j/3.jpg)](https://postimg.cc/H8HSvxFt)
-
-![Imgur](https://i.imgur.com/CcXXtlE.png)
-
-![Imgur](https://i.imgur.com/NEuCD4z.png)
-
-![Imgur](https://i.imgur.com/SLaut7w.png)
 
 #### Team Collaboration Insights during Sprint 4
 
-[![Insights.png](https://i.postimg.cc/Fz834hy3/Insights.png)](https://postimg.cc/SYLJLFtx)
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/7cc2c092-261b-4363-9434-16199260b727)
 
-[![code-frecuency.png](https://i.postimg.cc/13ZJTZyb/code-frecuency.png)](https://postimg.cc/LnNtYwYV)
-
--------------
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/8154d89f-7877-44ce-b3db-471972a4f1c8)
 
 
 ### 5.3. Validation Interviews

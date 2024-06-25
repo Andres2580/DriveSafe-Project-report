@@ -2992,6 +2992,17 @@ Se muestran capturas de pantalla que ilustran la implementación exitosa de los 
 
 #### Software Deployment Evidence for Sprint 4 Review
 
+Nuestro proyecto backend se desplegó en la plataforma de azure.
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/59b3297f-6182-41c5-b90c-7b48b088b2e2)
+
+Através de github, se desplegó un gitAction mostrando el despliegue exitoso.
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/d2da389a-77e2-4c7b-b06f-48f72ebd3cf8)
+
+Nuestra base de datos se deplegó en un hosting gratuito.
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/164695009/16c677e2-2a63-4301-84ef-8009836d1299)
+
+Finalmente se intreactuó con la aplicación final, tal como se muestran en las capturas.
+
 ![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/c31e6b81-a12d-44ac-9838-40974b8e7587)
 ![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/4951aa9f-7da2-4a6b-982d-2f6fafb2a683)
 ![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/89095594/c1769a75-5786-4a85-a0af-842d44b495c6)

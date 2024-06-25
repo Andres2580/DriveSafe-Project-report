@@ -3,7 +3,7 @@
 
 <img src="https://seeklogo.com/images/U/universidad-peruana-de-ciencias-aplicadas-upc-logo-B98C3A365C-seeklogo.com.png" alt="UPC Logo" width="15%" height="15%">
 
-<h2>Informe del Trabajo 1 (TB1)</h2>
+<h2>Informe del Trabajo 1 (TF1)</h2>
 
 <h3>Curso: Aplicaciones Web</h3>
 <h3>Carrera: Ingeniería de Software (5to ciclo)</h3>

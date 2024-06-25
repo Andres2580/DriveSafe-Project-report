@@ -2946,38 +2946,35 @@ Link de nuestra rama de testing:
 
 #### Execution Evidence for Sprint 4 Review 
 
-## Login
+Login
 ![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/a0a44dd7-3284-4c88-abe2-4a94f0d7c06e)
 
-## Registro
+Registro
 ![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/38ff34be-4fbe-4119-8559-c12f3e3f6808)
 
-## Página de inicio arrendatario
+Página de inicio arrendatario
 ![imagen](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/37128dd05dcc4cdd01dd1d69ce4d234b242359b4/imagenes/Arrendatario/inicio_arrendatario.png)
 
-## Página de inicio propietario
+Página de inicio propietario
 ![imagen](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/37128dd05dcc4cdd01dd1d69ce4d234b242359b4/imagenes/Propietario/inicio_arrendador.png)
 
-## Notificaciones propietario
+Notificaciones propietario
 ![imagen](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/37128dd05dcc4cdd01dd1d69ce4d234b242359b4/imagenes/Propietario/notificaciones_arrendador.png)
 
-## Perfil arrendatario
+Perfil arrendatario
 ![imagen](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/37128dd05dcc4cdd01dd1d69ce4d234b242359b4/imagenes/Arrendatario/perfil_arrendatario.png)
 
-## Perfil propietario
+Perfil propietario
 ![imagen](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/37128dd05dcc4cdd01dd1d69ce4d234b242359b4/imagenes/Propietario/perfil_arrendador.png)
 
-## Búsqueda de autos arrendatario
+Búsqueda de autos arrendatario
 ![imagen](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/37128dd05dcc4cdd01dd1d69ce4d234b242359b4/imagenes/Arrendatario/buscar_arrendatario.png)
 
-## Mantenimiento arrendatario
+Mantenimiento arrendatario
 ![imagen](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/37128dd05dcc4cdd01dd1d69ce4d234b242359b4/imagenes/Arrendatario/mantenimiento_arrendatario.png)
 
-## Registro vehicular propietario
+Registro vehicular propietario
 ![imagen](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/blob/37128dd05dcc4cdd01dd1d69ce4d234b242359b4/imagenes/Propietario/registro_arrendador.png)
-
-## Creación de contrato de alquiler propietario
-
 
 #### Services Documentation Evidence for Sprint 4 Review 
 

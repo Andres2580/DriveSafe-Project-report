@@ -2948,10 +2948,12 @@ Link de nuestra rama de testing:
 
 Login
 
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/a0a44dd7-3284-4c88-abe2-4a94f0d7c06e)
 
 
 Registro
 
+![image](https://github.com/AppWeb-Grupo3/DriveSafe-Project-report/assets/83793319/38ff34be-4fbe-4119-8559-c12f3e3f6808)
 
 
 Página de inicio arrendatario
